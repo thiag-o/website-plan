@@ -2,4 +2,4 @@
 
 ## test desing html responsive
 
-### acess in "https://thiagodevss.github.io/website-plan/"
+Acess in "https://thiagodevss.github.io/website-plan/"
