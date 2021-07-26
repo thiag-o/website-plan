@@ -1,0 +1,379 @@
+/*navbar*/
+.head-nav{
+    background-color: #6F6F6F;
+    height: 40px;
+
+}
+.bg-custom{
+
+    background-color: #E2E2E2;
+}
+.dropdown-nav li{
+    margin-left: 0;
+}
+.logo{
+    height: 100%;
+}
+
+nav img{
+    height: 70px;
+    margin-top: 0;
+    box-sizing: border-box;
+}
+
+.complete{
+    justify-content: space-around;
+}
+
+nav li{
+    margin-left: 50px;
+}
+
+/*outdoor*/
+.outdoor{
+    background-color: black;
+    animation-name: fade;
+    animation-duration: 2000ms;
+}
+.outdoor-img{
+    background-image: url('../img/homemg.jpg');    
+    min-height: 270px;
+    opacity: 1;
+    width: 100%;
+    position: relative;
+    background-size: 100%;
+    background-position: 100%;
+    background-repeat: no-repeat;
+}
+@font-face {
+    font-family: Sintony;
+    src: url('../font/Sintony-Regular.otf');
+}
+
+.outdoor-letter{
+    height: 0px;
+    margin: 0;
+    position: relative;
+    top: 2em;
+    font-family: Sintony;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 6px #000;
+    text-transform: none;
+    letter-spacing: 2px;
+    font-size: 32pt;
+    line-height: 26px;
+}
+
+.outdoor-letter-min{
+    height: 0px;
+    margin: 0;
+    position: relative;
+    top: 5.9em;
+    font-family: Sintony;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 6px #000;
+    text-transform: none;
+    font-size: 23pt;
+    line-height: 26px;
+}
+
+/*about*/
+@font-face{
+    font-family: Yinmar;
+    src: url('../font/Yinmar-Regular.ttf');
+}
+
+.about{
+    padding-top: 2%;
+    box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.25);
+   
+}
+
+.about img{
+    margin: 4px auto;
+    height: 70%;
+    width: 100%;
+}
+/*footer*/
+
+.info{
+    position: relative;
+    background-color: #6F6F6F;
+    min-height: 100px;
+    margin-top: 15%;
+    padding-top: 10px;
+}
+
+.info p{
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+/*houses*/
+
+.space{
+    margin-top: 6%;
+}
+
+.carousel-inner img{
+    max-height: 800px;
+    width: 100%;
+}
+
+.card-house{
+    border: solid 1px rgba(0, 0, 0, 0.32);
+    padding: 15px 30px;
+    max-height: 500px;
+    margin-bottom: 20px;
+    border-radius: 2px;
+    box-shadow: 0 4px 4px rgb(0, 0, 0,0.25);
+}
+
+.card-house img{
+    margin-left: auto;
+    height: 190px;
+    max-width: 100%;
+}
+
+.button-card{
+    margin-top: 10%;
+
+}
+.btn-custom{
+    color: white;
+    background-color: #6F6F6F;
+    padding:  2% 9%;
+}
+.btn-custom:hover{
+    color:#6F6F6F;
+    background-color: white;
+    border: solid 1px #6F6F6F;
+}
+/*footer*/
+footer{
+    background-color: #6F6F6F;
+    padding-bottom: 40px;
+    margin-top: 5%;
+    bottom: -1px;
+}
+
+footer h5{
+    color: white;
+    font-size: 13pt;
+    line-height: 0;
+}
+footer p {
+    color: white;
+    line-height: 0;
+    font-size: 7pt;
+}
+footer h6 {
+    color: white;
+    font-size: 10pt;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+.footer-img{
+    margin-top: 5px;
+    max-width: 100%;
+    height: 80px;
+}
+.col-mg-footer{
+    margin-bottom: 20px;
+
+}
+/*page apart*/
+
+
+.head-page h6 a {
+    text-decoration: none;
+    color: #6F6F6F;
+    font-size: 9pt;
+}
+
+.input-custom{
+    float: left;
+    max-width: 80%;
+    position: relative;
+}
+
+.btn-search{
+    background-color: #9d9d9d;
+}
+
+.space-left{
+    margin-left: 20%;
+}
+
+.col-space-bottom{
+    margin-bottom: 4%;
+}
+
+/*page casa uni*/
+.house-un{
+    background-color: #9d9d9d4b;
+    height: 500px;
+    margin-bottom: 40px;
+    max-width: 100%;
+   
+}
+
+
+
+.house-desc{
+    background-color: #6F6F6F;
+    max-height: 500px;
+
+}
+
+.house-desc h5{
+    color: white;
+}
+
+.house-desc p{
+    color: white;
+    line-height: 3vh;
+}
+
+.max-width-carousel{
+    max-width: 500px;
+    margin:0 auto;
+}
+.max-width-carousel img{
+    margin-top: 20px;
+    max-width: 100%;
+    height: 420px;
+    
+}
+
+/*avalible*/
+
+
+.opn h1{
+    font-size: 400%;
+}
+
+.opn{
+    padding: 4% 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.26);
+    margin-bottom: 40px;
+}
+
+/*questions*/
+ .ask{
+     background-color: #9d9d9d2e;
+     padding-left: 10px;
+     cursor: pointer;
+
+}
+.res{
+     display: none ;
+}
+.ask-small a{
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+}
+
+.ask-small a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+@keyframes fade {
+    from{
+      opacity: 0;
+      transform: scale(0.9);
+    }to{
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+
+
+
+/*responsive itens*/
+@media (max-width: 600px) {
+    .card-house{
+        border: solid 1px rgba(0, 0, 0, 0.32);
+        padding: 10px 20px;
+        max-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 2px;
+        box-shadow: 0 4px 4px rgb(0, 0, 0,0.25);
+    }
+    .card-house img{
+        margin-left: auto;
+        height: 140px;
+        max-width: 100%;
+    }
+    .button-card{
+        margin-top: 6%;
+    
+    }
+    .outdoor-img{
+        background-image: url('../img/homemg.jpg');    
+        min-height: 270px;
+        opacity: 1;
+        width: 100%;
+        position: relative;
+        background-size: cover;
+        background-position: 100%;
+        background-repeat: no-repeat;
+    }
+    
+}
+@media (max-width: 300px) {
+    .card-house{
+        border: solid 1px rgba(0, 0, 0, 0.32);
+        padding: 10px 20px;
+        max-height: 500px;
+        margin-bottom: 20px;
+        border-radius: 2px;
+        box-shadow: 0 4px 4px rgb(0, 0, 0,0.25);
+    }
+    .card-house img{
+        margin-left: auto;
+        height: 120px;
+        max-width: 100%;
+    }
+    .card-house p{
+        font-size: 13px;
+    }
+    .button-card{
+        margin-top: 6%;
+    
+    }
+
+}
+@media (max-width: 991px){
+    .show{
+        margin-top: 1%;
+    }
+    .space-left{
+        margin-left: 0;
+    }
+    nav li{
+        margin-left: 0;
+    }
+
+
+}
+
+@media (max-width: 510px){
+    .max-width-carousel img{
+        margin-top: 40px;
+        max-width: 100%;
+        height: 340px;
+        
+    }
+}
