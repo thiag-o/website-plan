@@ -4,7 +4,7 @@
 
 O projeto é um site de imobiliária fictícia e foi um dos meus primeiros projetos.
 Elaborado junto a um protótipo figma com foco em responsividade e na utilização do framework bootstrap.
-
+<br/>
 <img src=".github/home.png" height="500"/>
 
 Acesso ao [Protótipo figma](https://www.figma.com/file/rqQqSqRs97OD59gwT2aKE5/Office-Plan?type=design&node-id=0%3A1&mode=design&t=DPx0FgSeT74RTpsM-1).
