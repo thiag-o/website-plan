@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O projeto é um site de imobiliária fictícia e foi um dos meus primeiros projetos.
+O projeto é um site de uma imobiliária fictícia e foi um dos meus primeiros projetos.
 Elaborado junto a um protótipo figma com foco em responsividade e na utilização do framework bootstrap.
 
 <img src=".github/home.png" height="500"/>
