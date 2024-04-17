@@ -14,4 +14,8 @@ Vizualizar projeto [Office Plan](https://thiag-o.github.io/website-plan/).
 
 Para iniciar o projeto:
 
-Abrir o arquivo `index.html` em algum navegador ou utilizar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do vscode.
+Abrir o arquivo `index.html` em algum navegador ou utilizar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no vscode.
+
+## Tecnologias
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
