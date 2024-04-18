@@ -3,7 +3,7 @@
 ## Sobre
 
 O projeto é um site de uma imobiliária fictícia e foi um dos meus primeiros projetos.
-Elaborado junto a um protótipo figma com foco em responsividade e na utilização do framework bootstrap.
+Elaborado junto a um protótipo figma com foco em responsividade e na utilização do framework Bootstrap.
 
 <img src=".github/home.png" height="500"/>
 
@@ -15,7 +15,7 @@ Vizualizar projeto [Office Plan](https://thiag-o.github.io/website-plan/).
 
 Para iniciar o projeto:
 
-Abrir o arquivo `index.html` em algum navegador ou utilizar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no vscode.
+Abrir o arquivo `index.html` no navegador ou utilizar o [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) no vscode.
 
 ## Tecnologias
 
